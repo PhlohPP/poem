@@ -3,4 +3,5 @@ Farbpalette
 Rot
 Grün
 Blau
+Lila
 Sind alles tolle Farben.
